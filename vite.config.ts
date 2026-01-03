@@ -6,10 +6,10 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, ".", "");
 
   return {
-    base: "./", // 👈 السطر المهم جدًا
+    base: "./",
     plugins: [react()],
     define: {
-      "process.env": {}, // 👈 يمنع الكراش
+      "process.env": {},
     },
     resolve: {
       alias: {
