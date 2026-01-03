@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of UniSmart - University Management System",
+  "description": "A comprehensive smart university management platform for scheduling, QR-based attendance tracking, and academic resource management with AI insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
