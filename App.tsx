@@ -8,7 +8,6 @@ import Attendance from './components/Attendance';
 import Reports from './components/Reports';
 import VirtualClassroom from './components/VirtualClassroom';
 import AdminSchedule from './components/AdminSchedule';
-import UserManagement from './components/UserManagement';
 import AttendanceRecords from './components/AttendanceRecords';
 import { GraduationCap, ShieldAlert, ArrowRight, Lock, User as UserIcon, Mail, UserPlus, LogIn, ChevronDown } from 'lucide-react';
 
